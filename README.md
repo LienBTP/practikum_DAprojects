@@ -2,6 +2,6 @@
 
 | #    | Наименование проекта                | Описание                                                     | Технологии                                                      |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1.   | [Анализ оттока клиентов банка](https://github.com/LienBTP/practikum_DAprojects/blob/main/1%20Churn%20Rate%20Project/1.%20Анализ%20оттока%20клиентов%20банка.ipynb) | Выявление факторов, влияющих на отток клиентов банка | Pandas, Seaborn, Nympy, Matplotlib, Scipy |
+| 1.   | [Анализ оттока клиентов банка](https://github.com/LienBTP/practikum_DAprojects/blob/main/Churn%20Rate%20Project%20/1.%20Анализ%20оттока%20клиентов%20банка.ipynb) | Выявление факторов, влияющих на отток клиентов банка | Pandas, Seaborn, Nympy, Matplotlib, Scipy |
 | 2.   | [Оценка результатов A/B-теста](https://github.com/LienBTP/practikum_DAprojects/blob/main/AB%20Test%20Results/2.%20Оценка%20результатов%20AB-теста.ipynb) | Оценка корректности проведения теста A/B-теста и его результатов | Pandas, Seaborn, Nympy, Math, Scipy.stats, Plotly |
 | 3.   | [Исследование рынка заведений общественного питания Москвы](https://github.com/LienBTP/practikum_DAprojects/blob/main/Moscow%20catering%20research/3.%20Исследование%20рынка%20заведений%20общественного%20питания%20Москвы.ipynb) | Анализ данных заведений общественного питания Москвы             | Pandas, Seaborn, Nympy, Folium, Json, Plotly |
